@@ -1,9 +1,6 @@
 import random
 
-
 game_options = ("rock", "paper", "scissors")
-
-
 
 while True:
     opponent_choice = random.choice(game_options)
